@@ -1,0 +1,202 @@
+[
+
+    {
+        "img": "https://i.dlpng.com/static/png/4953872_preview_preview.png",
+        "superheroe": "batman",
+        "identidad_secreta": "Bruce Wayne",
+        "edad": "40 años",
+        "altura": "188",
+        "genero": "masculino",
+        "descripcion": "Batman es un personaje creado por los estadounidenses Bob Kane y Bill Finger, ​ y propiedad de DC Comics. Apareció por primera vez en la historia titulada «El caso del sindicato químico» de la revista Detective Comics N.º 27, lanzada por la editorial National Publications"
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/death-battle-en-espanol/images/8/8a/Nightwing.png/revision/latest/scale-to-width-down/340?cb=20181015202836&path-prefix=es",
+        "superheroe": "nightwing",
+        "identidad_secreta": "Dick Grayson",
+        "edad": "27 años",
+        "altura": "178",
+        "genero": "masculino",
+        "descripcion": "Richard John Dick Grayson, es un personaje ficticio perteneciente a la editorial DC Comics. Creado por Bob Kane y Bill Finger y el ilustrador Jerry Robinson"
+    },
+    
+    {
+        "img": "https://pngimage.net/wp-content/uploads/2018/05/batgirl-png-7.png",
+        "superheroe": "batgirl",
+        "identidad_secreta": "Barbara Gordon",
+        "edad": "27 años",
+        "altura": "169",
+        "genero": "femenino",
+        "descripcion": "Batgirl o Batichica es el nombre de varias superheroínas ficticias que aparecen en los cómics estadounidenses publicados por DC Comics, representados como contrapartes femeninas del superhéroe Batman."
+    },
+
+    {
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/ddc6tde-332128b6-d0a6-4c28-a2e8-3d0ed46e488c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNWI4ZDJiMTItMjFlOC00OTMxLThhNmQtZmI5ZWNkZDYwMzgzXC9kZGM2dGRlLTMzMjEyOGI2LWQwYTYtNGMyOC1hMmU4LTNkMGVkNDZlNDg4Yy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.NtUcJVPDkBGHyn0CU16-EvPqivSAxUkbSpjpXIZhVQs",
+        "superheroe": "batwoman",
+        "identidad_secreta": "Katherine Kane",
+        "edad": "25 años",
+        "altura": "172",
+        "genero": "femenino",
+        "descripcion": "Kate Kane sigue los pasos de su primo desaparecido, Bruce Wayne, y protege las calles de Gotham City como Batwoman."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/d/da/Red_hood.png/revision/latest/scale-to-width-down/310?cb=20190707203556&path-prefix=es",
+        "superheroe": "red Hood",
+        "identidad_secreta": "Jason Todd",
+        "edad": "22 años",
+        "altura": "183",
+        "genero": "masculino",
+        "descripcion": "Red Hood Es un alias que han portado varías personajes ficticios del Universo DC, enemigo de Batman y aparecido por primera vez en la historia El Hombre tras la Capucha Roja escrita por Bill Finger. "
+    },
+
+    {
+        "img": "https://www.pngkit.com/png/full/319-3191210_damian-wayne-render-super-sons-jorge-jimenez-covers.png",
+        "superheroe": "robin",
+        "identidad_secreta": "Damian Wayne",
+        "edad": "13 años",
+        "altura": "158",
+        "genero": "masculino",
+        "descripcion": "Damian Wayne, es un personaje de ficción creado por DC Comics dentro del mundo del justiciero enmascarado llamado Batman. Damian es hijo biológico de Talia al Ghul y Bruce Wayne. Fue creado por Grant Morrison y apareció por primera vez en Batman N.º 655."
+    },
+
+    {
+        "img": "https://i.pinimg.com/originals/93/36/ca/9336cac3bdf0d118df90bc1ac2bf06a8.png",
+        "superheroe": "superman",
+        "identidad_secreta": "Clark Kent",
+        "edad": "30 años",
+        "altura": "186",
+        "genero": "masculino",
+        "descripcion": "Superman (cuyo nombre kryptoniano es Kal-El y su nombre terrestre es Clark Kent) es un personaje ficticio, un superhéroe de los cómics que aparece en las publicaciones de DC Comics."
+    },
+
+    {
+        "img": "https://i.ya-webdesign.com/images/wonder-woman-comic-png-7.png",
+        "superheroe": "wonder woman",
+        "identidad_secreta": "Diana de Temiscira",
+        "edad": "900 años",
+        "altura": "180",
+        "genero": "femenino",
+        "descripcion": "Diana, hija de dioses y princesa de las amazonas, nunca ha salido de su isla. Un día, en el contexto de la Primera Guerra Mundial, un piloto americano se estrella en su isla y Diana salva su vida; el piloto le explica que se está desarrollando una gran guerra que puede devastar el mundo, y Diana parte a la batalla."
+    },
+
+    {
+        "img": "https://i.ya-webdesign.com/images/flash-running-png.png",
+        "superheroe": "flash",
+        "identidad_secreta": "Barry Allen",
+        "edad": "25 años",
+        "altura": "187",
+        "genero": "masculino",
+        "descripcion": "Nueve meses después de que el laboratorio S.T.A.R. explotara, Barry despierta del coma y descubre que tiene el poder de la súper velocidad. Con la ayuda de su nuevo equipo, Barry, denominado ahora `Flash', luchará contra el crimen en Ciudad Central."
+    },
+
+    {
+        "img": "https://freepngimg.com/thumb/flash/20898-5-kid-flash-transparent.png",
+        "superheroe": "kid flash",
+        "identidad_secreta": "Wally West",
+        "edad": "16 años",
+        "altura": "187",
+        "genero": "masculino",
+        "descripcion": "Wallace Rudolph Wally West, conocido popularmente como Wally West, es un personaje ficticio, que aparece en las publicaciones de DC Comics."
+    },
+
+    {
+        "img": "http://assets.stickpng.com/images/584fbcbf6a5ae41a83ddee72.png",
+        "superheroe": "cyborg",
+        "identidad_secreta": "Victor Stone",
+        "edad": "35 años",
+        "altura": "191",
+        "genero": "masculino",
+        "descripcion": "Cyborg es un superhéroe ficticio que aparece en los cómics estadounidenses publicadas por DC Comics. El personaje fue creado por el escritor Marv Wolfman y el artista George Pérez y aparece por primera vez en un suplemento especial en DC Comics Presents #26. Cyborg es conocido como un miembro de los Jóvenes Titanes.​ "
+    },
+
+    {
+        "img": "https://i.pinimg.com/originals/e6/f6/ea/e6f6ea2d8280d86aa87b11ae1927725d.png",
+        "superheroe": "chico bestia",
+        "identidad_secreta": "Garfield Mark Logan",
+        "edad": "14 años",
+        "altura": "155",
+        "genero": "masculino",
+        "descripcion": "Garfield Mark Logan, personaje conocido como Beast Boy o también Changeling, es un superhéroe cambiante del universo de DC Comics, exmiembro de la Patrulla Condenada y actual miembro de los Jóvenes Titanes."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/teenstitans/images/6/66/Raven.png/revision/latest/scale-to-width-down/310?cb=20180812164625&path-prefix=es",
+        "superheroe": "raven",
+        "identidad_secreta": "Raven",
+        "edad": "16 años",
+        "altura": "165",
+        "genero": "femenino",
+        "descripcion": "Raven es una superheroína ficticia que aparece en los cómics estadounidenses publicados por DC Comics. El personaje apareció por primera vez en un inserto especial en DC Comics Presents # 26, y fue creado por el escritor Marv Wolfman y el artista George Pérez."
+    },
+
+    {
+        "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e4c3336-0621-4c1d-ad77-dee35d7a12d2/dd0ur6d-8e3e0bfe-d357-4ece-854d-fec664edda05.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOGU0YzMzMzYtMDYyMS00YzFkLWFkNzctZGVlMzVkN2ExMmQyXC9kZDB1cjZkLThlM2UwYmZlLWQzNTctNGVjZS04NTRkLWZlYzY2NGVkZGEwNS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.Uyx4hBP-pTpqxImFf0aPWhwKbCcGUAuhpGK7CzVxE4s",
+        "superheroe": "dr. destino",
+        "identidad_secreta": "Kent Nelson",
+        "edad": "27 años",
+        "altura": "187",
+        "genero": "masculino",
+        "descripcion": "Doctor Fate —conocido en español como el Doctor Destino— es un personaje creado por la editorial DC Comics caracterizado por sus poderes mágicos, y uno de los fundadores de la Sociedad de la Justicia de América."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/7/7b/Hal_Jordan.png/revision/latest?cb=20190511153824&path-prefix=es",
+        "superheroe": "linterna verde",
+        "identidad_secreta": "Hal Jordan",
+        "edad": "31 años",
+        "altura": "192",
+        "genero": "masculino",
+        "descripcion": "Linterna Verde es el alias de varios superhéroes de la ficción del Universo DC, los cuales se caracterizan por un anillo de poder y la capacidad de crear manifestaciones de luz sólida con los susodichos anillos."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/inmortalkombat/images/c/c7/Shazam.png/revision/latest/scale-to-width-down/340?cb=20151204235347&path-prefix=es",
+        "superheroe": "shazam",
+        "identidad_secreta": "Billy Batson",
+        "edad": "14 años",
+        "altura": "163",
+        "genero": "masculino",
+        "descripcion": "Captain Marvel, y desde 2011 llamado Shazam, ​​​ es un superhéroe creado en 1939 por el guionista Bill Parker y el dibujante Clarence Charles Beck, originalmente publicado por Fawcett Comics en Whizz Comics 2 y posteriormente, tras la compra de los derechos del personaje en 1972 y hasta la actualidad, por DC Comics."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/8/84/Aquaman.png/revision/latest/scale-to-width-down/310?cb=20190918015708&path-prefix=es",
+        "superheroe": "aquaman",
+        "identidad_secreta": "Arthur Curry",
+        "edad": "38 años",
+        "altura": "194",
+        "genero": "masculino",
+        "descripcion": "Como parte de Los nuevos 52, el relanzamiento de toda su línea de superhéroes en 2011, Geoff Johns, Ivan Reis y Joe Prado sirvieron como el equipo creativo inicial de la nueva serie Aquaman de la compañía, cuyo primer número fue lanzado el 28 de septiembre de 2011."
+    },
+
+    {
+        "img": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/c/cb/CATWOMAN.PNG/revision/latest?cb=20140515034734&path-prefix=es",
+        "superheroe": "catwoman",
+        "identidad_secreta": "Selina Kyle",
+        "edad": "37 años",
+        "altura": "179",
+        "genero": "femenino",
+        "descripcion": "Catwoman es un personaje ficticio creado por Bill Finger y Bob Kane que aparece en los cómics estadounidenses publicados por DC Comics, comúnmente en asociación con el superhéroe Batman. El personaje hizo su debut como La Gata en Batman # 1, y su nombre real es Selina Kyle."
+    },
+
+    {
+        "img": "https://pngriver.com/wp-content/uploads/2018/04/Download-Hawkgirl-PNG-Photo.png",
+        "superheroe": "hawk girl",
+        "identidad_secreta": "Shiera Sanders",
+        "edad": "27 años",
+        "altura": "181",
+        "genero": "femenino",
+        "descripcion": "Chica Halcón es el nombre de varias superheroínas ficticias, Alienígenas que aparecen en los cómics estadounidenses publicados por DC Comics. La primera Chica Halcón, Shiera Sanders Hall, fue creada por el escritor Gardner Fox y el artista Dennis Neville y apareció por primera vez en Flash Comics #1."
+    },
+
+    {
+        "img": "https://pngimage.net/wp-content/uploads/2018/06/starfire-png-6.png",
+        "superheroe": "starfire",
+        "identidad_secreta": "Koriand'r.",
+        "edad": "16 años",
+        "altura": "177",
+        "genero": "femenino",
+        "descripcion": "Starfire es una superheroína ficticia de DC Comics. Su nombre verdadero es Koriand'r. Es una princesa de un mundo extraterrestre conocido como Tamaran. Apareció por primera vez en un número de DC Comics Presents. Se convirtió en miembro de los Jóvenes Titanes y posteriormente se unió a Los Marginales."
+    }
+]
