@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/services.dart';
+import 'package:flutter_speed_dial/flutter_speed_dial.dart';
 import 'package:jsonsh/splashScreen.dart';
 import 'tarjetasHeroes.dart';
 import 'package:audioplayers/audio_cache.dart';
@@ -10,7 +11,7 @@ import 'package:audioplayers/audioplayers.dart';
 void main() {
   runApp(new MaterialApp(
     home: new MyApp(),
-    theme: ThemeData.dark(),
+    theme: ThemeData.light(),
     debugShowCheckedModeBanner: false,
   ));
 }
@@ -53,7 +54,6 @@ class homePageState extends State<HomePage> {
 
     audioPlayer = AudioPlayer();
     audioCache = AudioCache();
-    var loop = 1;
 
     setState(() {
       audioCache.play(audioname);
@@ -65,7 +65,7 @@ class homePageState extends State<HomePage> {
     // TODO: implement build
     return new Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blueGrey,
         centerTitle: true,
         title: _isSearching
             ? TextField(
@@ -121,8 +121,16 @@ class homePageState extends State<HomePage> {
                             .contains(searchString)
                         ? ListTile(
                             leading: CircleAvatar(
-                              backgroundImage: NetworkImage(
-                                  snapshot.data[index].img.toString()),
+                              backgroundColor: Color(0x00000000),
+                              radius: 20,
+                              child: ClipOval(
+                                child: new SizedBox(
+                                  width: 100,
+                                  height: 100,
+                                  child: new Image.network(
+                                snapshot.data[index].img.toString()),
+                                ),
+                              ),
                             ),
                             title: Text(snapshot.data[index].superheroe
                                 .toString()
@@ -146,6 +154,7 @@ class homePageState extends State<HomePage> {
     );
   }
 }
+
 
 class dcHeroes {
   final String img;
